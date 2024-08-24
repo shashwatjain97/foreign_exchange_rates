@@ -10,3 +10,11 @@ Instructions
 
     postgress db password : qwerty
     port : 5432
+
+    
+Run the Application Run your Spring Boot application : ./mvnw spring-boot:run
+
+Run Tests Execute your tests to ensure everything is functioning correctly : ./mvnw test
+
+
+    
